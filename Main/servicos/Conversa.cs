@@ -11,6 +11,6 @@ public class Conversa{
 
     public void passarTexto(int idFilha){}
 
-    //Caso seja um NPC e possa uma unica filha disponivel
+    //Caso seja um NPC e possua uma unica filha disponivel
     public void passarTextoAuto(){}
 }
