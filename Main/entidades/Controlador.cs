@@ -1,3 +1,4 @@
+//Permiçao que disponibiliza ou empede a chamadas de textos
 public class Controlador{
     private bool valor;
     private string nome;
