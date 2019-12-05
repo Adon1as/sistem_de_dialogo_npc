@@ -1,0 +1,26 @@
+ID,Unidades de Texto,Controladores de Entrada,Controladores a Atualizar.,Filhas
+1,"Oi, voce sempre vem aqui?",0,,"2,4"
+2,"Ja vim outras Vezes","LOLCA_JA_DESCOBERTO",,3
+3,O que voce gosta mais daqui?,0,,"4,5,7,8,10"
+4,"O Lago, ele me acalma.","PODER_PSI_50","GOSTO_DO_LAGO, FAMA_DE_ZEN",6
+5,"O Lago, gosto de agua.",ANFINIDADE_COM_AGUA_50,"GOSTO_DO_LAGO",6
+6,"Eu tambem gosto dele, paro para observar  sempre quando passo",0,,13
+7,"Das sombras da arvores, elas sao frias.","ANFINIDADE_GELO_MAIOR_Q_FOGO, AFINIDADE_PLANTA_25","GOSTO_DAS_ARVORES, FAMA_DE_CALORENTO",9
+8,"Das avores, gosto de deitar de baixo",AFINIDADE_PLANTA_50,"GOSTO_DAS_ARVORES, FAMA_DE_RELAXADO",9
+9,No verao elas sao minhas heroinas.,0,,13
+10,"Dos esquilos, eles sao fofos",TER_ALIMENTADO_ESQUILOS,GOSTA_DE_ESQUILOS,10
+11,"Ja me atacaram, nao gosto deles.",0,,"12,18"
+12,Nossa.,0,,13
+13,Quer ir comigo la?,,,"14,15,16,18"
+14,"Talvez outro dia, de manha tem Yoga, apareca.",FAMA_DE_ZEN,,17
+15,"Nao to afim, mas no fim de semana vai ter evento de foodtruck, vai dar para pegar um lanche e comer debaixo das arvores, acho q vai gostar",GOSTO_DAS_ARVORES,,17
+16,"Nao to afim, mas no fim de semana vai ter evento de foodtruck, vai dar para pegar um sorvete e comer debaixo das arvores, acho q vai gosta",FAMA_DE_CALORENTO,,17
+17,Vou dar um  jeito de ir,,,22
+18,Vamos enfrentar esse medo,"CONFIANCA_75",,19
+19,Nao mesmo.,,,0
+20,Vou comecar a velos de um jeto diferente,"!CONFIANCA_75",,21
+21,Melhor assim,,,25
+22,Ta certao entao,,,24
+23,"Tem mais alguma coisa que voce goste?",,,"4,5,7,8,10"
+24,Chau!!,,,0
+25,"Chau",,,0
