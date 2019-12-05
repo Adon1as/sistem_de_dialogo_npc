@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 //Permiçao que disponibiliza ou empede a chamadas de textos
 public class Controlador{
     private bool valor;
