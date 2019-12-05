@@ -4,4 +4,13 @@ public class Conversa{
     private List<UnidadeDeTexto> unidadeDeTexto = new List<UnidadeDeTexto>();
     private Leitor leitor;
     private InterfaceJogador jogador;
+
+    public string getTextoAtual(){}
+
+    public List<string> getFilhasDisponiveis(){}
+
+    public void passarTexto(int idFilha){}
+
+    //Caso seja um NPC e possa uma unica filha disponivel
+    public void passarTextoAuto(){}
 }
